@@ -193,7 +193,7 @@ class Game
                     board[i][j] = (player == PlayTurn.PLAYER_X)?BoardCell.X:BoardCell.O;
                     int score = minimaxFunction(board, (player == PlayTurn.PLAYER_X)? PlayTurn.PLAYER_O:PlayTurn.PLAYER_X, 0);
                     board[i][j] = BoardCell.EMPTY;
-                    System.out.println("[bestMove] [ "+i+", "+j+"] For player "+player+" score is :"+score);
+                    //System.out.println("[bestMove] [ "+i+", "+j+"] For player "+player+" score is :"+score);
                     if (score > bestscore) {
                         bestscore = score;
                         bestmove.row = i;
