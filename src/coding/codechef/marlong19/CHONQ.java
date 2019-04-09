@@ -1,4 +1,4 @@
-package coding.codechef.marlong19;
+//package coding.codechef.marlong19;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -26,45 +26,27 @@ class CHONQ {
             }
             //print_array(que);
             //getting the cost of the function
-            int left = 0;
-            int right = n-1;
+            int num = -1;
+            for (int i = 0; i < n ; i++) {
 
-            while (left<right-1)
-            {
-                int mid = left + (right - left) / 2;
-                int res = get_angry_cost(que,mid,right,k);
-                //System.out.println(String.format("left : %-5d right: %-5d res: %-5d",left,right,res));
-                if (res >0)
+                int res = get_angry_cost(que,i,n,k);
+                if (res<=0)
                 {
-                    left = mid;
-                }
-                else
-                {
-                    right = mid;
-                    left++;
+                    num = i+1;
                     break;
                 }
             }
-
-            while (left<right)
-            {
-                int res = get_angry_cost(que,left,right,k);
-                if (res > 0)
-                {
-                    left++;
-                }
-
-            }
-            System.out.println(left+1);
+            if (num == -1)
+                num = n+1;
+            System.out.println(num);
         }
     }
 
     static int get_angry_cost( int[] que, int left, int right, int k)
     {
         long anger = 0L;
-        for (int i = 1; i <=(que.length-left+1) ; i++) {
+        for (int i = 1; left < right ; i++,left++) {
             anger+= (int)Math.floor((double)que[left]/i);
-            left++;
         }
         //System.out.println(String.format("left : %-5d right: %-5d anger: %-5d",left,right,anger));
         if (anger > k)

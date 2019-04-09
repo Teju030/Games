@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdb19a4c-53dc-4c58-a1dc-6a08ddc4bd0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/CHEFING.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/DEPCHEF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/HMAPPY2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/HMAPPY2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/MAGICJAR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/hackerearth/jancircuit19/EqualMultiset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fdb19a4c-53dc-4c58-a1dc-6a08ddc4bd0c" name="Default Changelist" comment="Using divide method">
+      <change afterPath="$PROJECT_DIR$/src/coding/codechef/marlong19/CHDIGER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/codechef/marlong19/CHNUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/codechef/marlong19/JAIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/codechef/template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/techgig/codegladiators/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/techgig/codegladiators/Disks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/techgig/codegladiators/MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/techgig/codegladiators/WOL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gamez.iml" beforeDir="false" afterPath="$PROJECT_DIR$/devtej.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/BoardCell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/GameState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/PlayTurn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gamez/TicTacToeAI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tictactoe/TicTacToeAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tictactoe/TicTacToeAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/codechef/feblong19/template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/techgig/codegladiators/Ascii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/codechef/marlong19/CHONQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/codechef/marlong19/CHONQ.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,35 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/DEPCHEF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/MAGICJAR.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java">
+        <entry file="file://$PROJECT_DIR$/src/coding/techgig/codegladiators/MaxSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="-475">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,10 +37,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/template.java">
+        <entry file="file://$PROJECT_DIR$/src/coding/codechef/template.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="396">
+              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,14 +101,25 @@
         <option value="$PROJECT_DIR$/src/coding/codechef/feblong19/MAGICJAR.java" />
         <option value="$PROJECT_DIR$/src/coding/codechef/feblong19/template.java" />
         <option value="$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java" />
+        <option value="$PROJECT_DIR$/src/coding/techgig/codegladiators/Ascii.java" />
+        <option value="$PROJECT_DIR$/src/coding/techgig/codegladiators/Chess.java" />
+        <option value="$PROJECT_DIR$/src/coding/techgig/codegladiators/Disks.java" />
+        <option value="$PROJECT_DIR$/src/coding/codechef/feblong19/CHNUM.java" />
+        <option value="$PROJECT_DIR$/src/coding/codechef/marlong19/CHNUM.java" />
+        <option value="$PROJECT_DIR$/src/coding/codechef/marlong19/JAIN.java" />
+        <option value="$PROJECT_DIR$/src/coding/codechef/template.java" />
+        <option value="$PROJECT_DIR$/src/coding/codechef/marlong19/CHONQ.java" />
+        <option value="$PROJECT_DIR$/src/coding/codechef/marlong19/CHDIGER.java" />
+        <option value="$PROJECT_DIR$/src/coding/techgig/codegladiators/WOL.java" />
+        <option value="$PROJECT_DIR$/src/coding/techgig/codegladiators/MaxSum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,17 +145,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="coding" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="devtej" type="b2602c69:ProjectViewProjectNode" />
-              <item name="devtej" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="feblong19" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -187,7 +158,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551184801456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554811883347" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -219,13 +190,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ARTBALAN">
-    <configuration name="ARTBALAN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.codechef.feblong19.ARTBALAN" />
+  <component name="RunManager" selected="Application.WOL">
+    <configuration name="CHDIGER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.codechef.marlong19.CHDIGER" />
       <module name="devtej" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.codechef.feblong19.*" />
+          <option name="PATTERN" value="coding.codechef.marlong19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CHEFING" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.codechef.feblong19.CHEFING" />
+    <configuration name="CHONQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.codechef.marlong19.CHONQ" />
       <module name="devtej" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.codechef.feblong19.*" />
+          <option name="PATTERN" value="coding.codechef.marlong19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEPCHEF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.codechef.feblong19.DEPCHEF" />
+    <configuration name="JAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.codechef.marlong19.JAIN" />
       <module name="devtej" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.codechef.feblong19.*" />
+          <option name="PATTERN" value="coding.codechef.marlong19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMAPPY2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.codechef.feblong19.HMAPPY2" />
+    <configuration name="WOL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.techgig.codegladiators.WOL" />
       <module name="devtej" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.codechef.feblong19.*" />
+          <option name="PATTERN" value="coding.techgig.codegladiators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MAGICJAR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.codechef.feblong19.MAGICJAR" />
+    <configuration name="template" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.codechef.marlong19.template" />
       <module name="devtej" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.codechef.feblong19.*" />
+          <option name="PATTERN" value="coding.codechef.marlong19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HMAPPY2" />
-      <item itemvalue="Application.CHEFING" />
-      <item itemvalue="Application.DEPCHEF" />
-      <item itemvalue="Application.MAGICJAR" />
-      <item itemvalue="Application.ARTBALAN" />
+      <item itemvalue="Application.CHDIGER" />
+      <item itemvalue="Application.CHONQ" />
+      <item itemvalue="Application.JAIN" />
+      <item itemvalue="Application.template" />
+      <item itemvalue="Application.WOL" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ARTBALAN" />
-        <item itemvalue="Application.MAGICJAR" />
-        <item itemvalue="Application.DEPCHEF" />
-        <item itemvalue="Application.CHEFING" />
-        <item itemvalue="Application.HMAPPY2" />
+        <item itemvalue="Application.WOL" />
+        <item itemvalue="Application.CHDIGER" />
+        <item itemvalue="Application.CHONQ" />
+        <item itemvalue="Application.JAIN" />
+        <item itemvalue="Application.template" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +284,21 @@
       <option name="presentableId" value="Default" />
       <updated>1544680705066</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solutions for feb long challege">
+      <created>1551184924849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551184924849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Using divide method">
+      <created>1551874717635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551874717635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -343,9 +329,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23076923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23562753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,15 +339,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.691498" visible="true" weight="0.39609236" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.691498" weight="0.357016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29307282" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29307282" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.30850202" side_tool="true" weight="0.40497336" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.4955595" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3534636" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,6 +357,11 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solutions for feb long challege" />
+    <MESSAGE value="Using divide method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using divide method" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/Enum.java">
@@ -480,20 +470,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/template.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="104">
+          <caret line="523" column="13" selection-start-line="523" selection-start-column="13" selection-end-line="523" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/codechef/feblong19/ARTBALAN.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="-518">
+          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="5400" column="26" lean-forward="true" selection-start-line="5400" selection-start-column="26" selection-end-line="5400" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/codechef/marlong19/CHNUM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/codechef/marlong19/JAIN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/techgig/codegladiators/Disks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#print_list#0;class#Disks#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/techgig/codegladiators/Chess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/codechef/marlong19/CHONQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/codechef/marlong19/CHDIGER.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/techgig/codegladiators/Ascii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="21" column="1" lean-forward="true" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/codechef/template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/techgig/codegladiators/WOL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" lean-forward="true" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Ascii#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/techgig/codegladiators/MaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,4 +1,4 @@
-//package coding.codechef.feblong19;
+package coding.codechef.feblong19;
 //https://www.codechef.com/FEB19
 
 import java.io.BufferedReader;
